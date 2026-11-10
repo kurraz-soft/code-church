@@ -1,0 +1,7 @@
+{
+  "name": "code-church",
+  "owner": { "name": "local" },
+  "plugins": [
+    { "name": "code-church", "source": "./", "description": "Stack-aware code-quality crusades: 8 purists, one /crusade command." }
+  ]
+}

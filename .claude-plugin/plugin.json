@@ -1,0 +1,7 @@
+{
+  "name": "code-church",
+  "description": "The Church of Clean Code, reborn: stack-aware parallel code-quality crusades for PHP, JS/TS and Python (arch, size, dead, deps, secrets, tests, naming, types).",
+  "version": "0.1.0",
+  "license": "MIT",
+  "keywords": ["code-quality", "audit", "php", "typescript", "python", "clean-code"]
+}
