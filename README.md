@@ -2,10 +2,10 @@
 
 Stack-aware code-quality crusades for Claude Code. A modern, language-agnostic take on the original *church* plugin. The persona style stays, the bloat goes.
 
-## Install (local)
+## Install
 
 ```
-/plugin marketplace add E:/OpenServer/OSPanel/external_projects/code-church
+/plugin marketplace add kurraz-soft/code-church
 /plugin install code-church@code-church
 ```
 
