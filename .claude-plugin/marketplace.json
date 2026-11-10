@@ -1,6 +1,7 @@
 {
   "name": "code-church",
   "owner": { "name": "kurraz-soft" },
+  "metadata": { "description": "Stack-aware code-quality crusades for Claude Code (PHP, JS/TS, Python)" },
   "plugins": [
     { "name": "code-church", "source": "./", "description": "Stack-aware code-quality crusades: 8 purists, one /crusade command." }
   ]
